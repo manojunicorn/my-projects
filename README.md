@@ -19,3 +19,6 @@ A simple command-line calculator application built using Python.
 
 ## Author
 Manoj S
+
+## Student Management System
+A menu-driven Python application to add, view, and delete student records.
